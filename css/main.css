@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.btn-wander{
+
+}
+
+#carrusel{
+  width: 500px;
+  height: 220px;
+  margin: 0 auto;
+}
+
+#carrusel img {
+  position: absolute;
+  opacity: 0;
+  margin-bottom: 20px;
+  margin-left: 250px;
+}
